@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Ailen-Isolation\\AilenIsolation\\Source\\AilenIsolation\\AilenIsolation.Build.cs",
+		"C:\\Ailen-Isolation\\AilenIsolation\\Source\\AilenIsolation.Target.cs",
+		"C:\\Ailen-Isolation\\AilenIsolation\\Source\\AilenIsolationEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

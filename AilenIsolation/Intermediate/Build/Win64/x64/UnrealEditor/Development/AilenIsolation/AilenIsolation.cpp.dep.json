@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ailen-isolation\\ailenisolation\\source\\ailenisolation\\ailenisolation.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ailen-isolation\\ailenisolation\\intermediate\\build\\win64\\x64\\ailenisolationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ailen-isolation\\ailenisolation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ailenisolation\\definitions.ailenisolation.h",
+            "c:\\ailen-isolation\\ailenisolation\\source\\ailenisolation\\ailenisolation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

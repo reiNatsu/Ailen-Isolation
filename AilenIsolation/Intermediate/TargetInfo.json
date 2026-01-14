@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AilenIsolation",
+			"Path": "..\\Source\\AilenIsolation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AilenIsolationEditor",
+			"Path": "..\\Source\\AilenIsolationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
